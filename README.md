@@ -50,7 +50,9 @@ cálculos da simulação
 • Ao final da simulação, o sistema pergunta se o usuário desejar salvar aquela
 simulação e armazena em arquivo a simulação caso o usuário opte por salvá-la para
 posterior consulta
+
 -> 2. Visualizar simulações salvas
 • Este item lê todo o conteúdo do arquivo, i.e. as simulações salvas, e exibe para o
 usuário, para fins de consulta
+
 -> 3. Sair
