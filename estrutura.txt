@@ -1,0 +1,7 @@
+Total de simulações: 1
+Valor gasto R$: 5000
+Pontuação por real: 8
+Bonificação: 100%
+Valor do milheiro para venda R$: 20
+Retorno R$: 1600
+Valor real gasto R$: 3400
