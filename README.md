@@ -1,4 +1,7 @@
 # Simulador_Milhas
+
+-> Versão em Kotlin com arquivo csv: https://github.com/scanDROIDERS/Simulador_Milhas/tree/main 
+
 As empresas aéreas criaram, há muito tempo, as milhas aéreas. Elas são uma espécie de
 pontuação para fazer com que os clientes continuem utilizando os serviços da cia aérea e de
 seus parceiros. Servem como uma espécie de recompensa: quanto mais você utiliza os serviços
